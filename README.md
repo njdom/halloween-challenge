@@ -58,4 +58,7 @@ La función `maximaGanancia` utiliza un enfoque recursivo que considera:
 
 La función retorna el valor máximo entre estas opciones.
 
+### 📄 Licencia
+MIT
+
 ## 🎃 ¡Feliz Programación de Halloween! 👻
